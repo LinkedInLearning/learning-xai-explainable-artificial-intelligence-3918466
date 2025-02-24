@@ -1,0 +1,25 @@
+# Core dependencies
+typing-extensions>=4.5.0  # Enhanced typing support
+python-dotenv>=1.0.0     # Environment variable management
+
+# Text analysis
+nltk>=3.8.1             # Natural language processing
+scikit-learn>=1.3.0     # Machine learning utilities
+numpy>=1.24.0           # Required for scientific computing
+regex>=2023.5.5         # Enhanced regular expression support
+
+# Content safety
+detoxify>=0.5.1         # Toxicity detection
+profanity-check>=1.0.3  # Profanity filtering
+
+# Testing and validation
+pytest>=7.4.0           # Testing framework
+pytest-cov>=4.1.0       # Test coverage reporting
+
+# Type checking
+mypy>=1.5.1             # Static type checking
+
+# Code quality
+black>=23.7.0           # Code formatting
+flake8>=6.1.0           # Code linting
+isort>=5.12.0           # Import sorting
